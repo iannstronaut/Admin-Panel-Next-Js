@@ -30,6 +30,9 @@ export default function ProductPage() {
       <div className="flex justify-between items-center flex-wrap gap-2">
         <div className="flex items-center gap-2">
           <button className="text-white bg-blue-500 px-1 py-0.5 rounded-sm hover:bg-blue-600 transition">
+            <i className="ri-add-circle-fill text-base"></i>
+          </button>
+          <button className="text-white bg-blue-500 px-1 py-0.5 rounded-sm hover:bg-blue-600 transition">
             <i className="ri-file-pdf-2-fill text-base"></i>
           </button>
           <button className="text-white bg-blue-500 px-1 py-0.5 rounded-sm hover:bg-blue-600 transition">
